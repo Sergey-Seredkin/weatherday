@@ -1,0 +1,27 @@
+{
+  "coord": { "lon": 41.4339, "lat": 52.7317 },
+  "weather": [
+    { "id": 600, "main": "Snow", "description": "light snow", "icon": "13d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 268.26,
+    "feels_like": 261.26,
+    "temp_min": 268.26,
+    "temp_max": 268.26,
+    "pressure": 1000,
+    "humidity": 89,
+    "sea_level": 1000,
+    "grnd_level": 984
+  },
+  "visibility": 10000,
+  "wind": { "speed": 8.46, "deg": 199, "gust": 17.38 },
+  "snow": { "1h": 0.11 },
+  "clouds": { "all": 99 },
+  "dt": 1642415922,
+  "sys": { "country": "RU", "sunrise": 1642396617, "sunset": 1642426270 },
+  "timezone": 10800,
+  "id": 484646,
+  "name": "Tambov",
+  "cod": 200
+}
