@@ -300,7 +300,7 @@ function App() {
                   class="weather-feel white"
                   style={{ backgroundcolor: "rgba(20, 107, 255, 0.7)" }}
                 >
-                  По ощущению{" "}
+                  По ощущению {" "}
                   <span class="measure">
                     <span class="unit unit_temperature_c"> {temp0} </span>
                   </span>
@@ -329,7 +329,7 @@ function App() {
               </div>
             </div>
           </div>
-          <h5>Сoordinates</h5>
+          <h5>Сoordinates {cityObject}</h5>
           <h5>Temperature Pressure Humidity</h5>
           <h8>humidity - {humidity}</h8>
           <h8>pressure - {pressure}</h8>
