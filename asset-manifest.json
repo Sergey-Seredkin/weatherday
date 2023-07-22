@@ -1,17 +1,17 @@
 {
   "main.css": "/weatherday/static/css/main.2e4b817f.chunk.css",
-  "main.js": "/weatherday/static/js/main.57b85d7e.chunk.js",
-  "main.js.map": "/weatherday/static/js/main.57b85d7e.chunk.js.map",
+  "main.js": "/weatherday/static/js/main.cc6925a5.chunk.js",
+  "main.js.map": "/weatherday/static/js/main.cc6925a5.chunk.js.map",
   "static/js/1.3f5a8f4c.chunk.js": "/weatherday/static/js/1.3f5a8f4c.chunk.js",
   "static/js/1.3f5a8f4c.chunk.js.map": "/weatherday/static/js/1.3f5a8f4c.chunk.js.map",
   "static/css/2.0e05f08b.chunk.css": "/weatherday/static/css/2.0e05f08b.chunk.css",
-  "static/js/2.13df146c.chunk.js": "/weatherday/static/js/2.13df146c.chunk.js",
-  "static/js/2.13df146c.chunk.js.map": "/weatherday/static/js/2.13df146c.chunk.js.map",
+  "static/js/2.8205b88e.chunk.js": "/weatherday/static/js/2.8205b88e.chunk.js",
+  "static/js/2.8205b88e.chunk.js.map": "/weatherday/static/js/2.8205b88e.chunk.js.map",
   "runtime~main.js": "/weatherday/static/js/runtime~main.1c8340af.js",
   "runtime~main.js.map": "/weatherday/static/js/runtime~main.1c8340af.js.map",
   "static/css/main.2e4b817f.chunk.css.map": "/weatherday/static/css/main.2e4b817f.chunk.css.map",
   "static/css/2.0e05f08b.chunk.css.map": "/weatherday/static/css/2.0e05f08b.chunk.css.map",
   "index.html": "/weatherday/index.html",
-  "precache-manifest.9066b544f9e50670b936c79d6a25d881.js": "/weatherday/precache-manifest.9066b544f9e50670b936c79d6a25d881.js",
+  "precache-manifest.2619a036a387dbded2cd700ab71c67b8.js": "/weatherday/precache-manifest.2619a036a387dbded2cd700ab71c67b8.js",
   "service-worker.js": "/weatherday/service-worker.js"
 }
