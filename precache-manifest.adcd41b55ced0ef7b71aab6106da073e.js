@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "38ffb25ef24e95992b20",
+    "revision": "c30c13b9b75152068396",
     "url": "/weatherday/static/css/main.0a457469.chunk.css"
   },
   {
-    "revision": "38ffb25ef24e95992b20",
-    "url": "/weatherday/static/js/main.38ffb25e.chunk.js"
+    "revision": "c30c13b9b75152068396",
+    "url": "/weatherday/static/js/main.c30c13b9.chunk.js"
   },
   {
     "revision": "0eaa8efc0f4173c4eeb4",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/weatherday/static/media/mainIndicators.f34ae3c5.png"
   },
   {
-    "revision": "7605845fd957c1e33c09a0fe148dee97",
+    "revision": "d43cb9d54f72a50fc0352b279c634df1",
     "url": "/weatherday/index.html"
   }
 ];
